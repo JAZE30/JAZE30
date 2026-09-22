@@ -34,7 +34,6 @@
 - 🌱 **Aprendizaje continuo:** Explorando arquitecturas cloud, optimización de algoritmos y buenas prácticas de desarrollo.
 - 🤝 **Colaboración:** Abierto a retos tecnológicos y nuevos proyectos de desarrollo.
 
-<!-- Limpia la imagen lateral para evitar descuadres -->
 <br clear="right"/>
 <br/>
 
@@ -57,18 +56,16 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="5">
   <tr>
-    <!-- Tarjeta de Estadísticas (Servidor extendido de alta disponibilidad) -->
     <td align="center" valign="middle">
       <img src="https://github-stats-extended.vercel.app/api?username=JAZE30&theme=tokyonight&show_icons=true&hide_border=true&border_radius=8" alt="GitHub Stats" width="380" />
     </td>
-    <!-- Tarjeta de Racha de Actividad -->
     <td align="center" valign="middle">
       <img src="https://streak-stats.demolab.com?user=JAZE30&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="380" />
     </td>
   </tr>
 </table>
 
-<!-- Animación de la Serpiente activa -->
+<!-- Animación de la Serpiente -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/JAZE30/JAZE30/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="85%" />
 </div>
@@ -96,21 +93,10 @@
 </h2>
 
 <p align="center">
-  <a target="_blank" href="https://github.com/JAZE30">
-    <img src="https://img.icons8.com/doodle/45/000000/github--v1.png" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a target="_blank" href="https://www.linkedin.com/in/TU_LINKEDIN">
-    <img src="https://img.icons8.com/doodle/45/000000/linkedin--v2.png" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a target="_blank" href="mailto:TU_CORREO@gmail.com">
-    <img src="https://img.icons8.com/doodle/45/000000/gmail-new.png" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a target="_blank" href="https://instagram.com/TU_INSTAGRAM">
-    <img src="https://img.icons8.com/doodle/45/000000/instagram-new--v2.png" alt="Instagram"/>
-  </a>
+  <a target="_blank" href="https://github.com/JAZE30"><img src="https://img.icons8.com/doodle/45/000000/github--v1.png" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/jaze30/"><img src="https://img.icons8.com/doodle/45/000000/linkedin--v2.png" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a target="_blank" href="mailto:josemabelge@gmail.com"><img src="https://img.icons8.com/doodle/45/000000/gmail-new.png" alt="Email"/></a>&nbsp;&nbsp;
+  <a target="_blank" href="https://www.instagram.com/jose_gonzales3011/"><img src="https://img.icons8.com/doodle/45/000000/instagram-new--v2.png" alt="Instagram"/></a>
 </p>
 
 <p align="center">
