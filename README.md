@@ -34,6 +34,7 @@
 - 🌱 **Aprendizaje continuo:** Explorando arquitecturas cloud, optimización de algoritmos y buenas prácticas de desarrollo.
 - 🤝 **Colaboración:** Abierto a retos tecnológicos y nuevos proyectos de desarrollo.
 
+<!-- Limpia la imagen lateral para evitar descuadres -->
 <br clear="right"/>
 <br/>
 
@@ -56,9 +57,9 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="5">
   <tr>
-    <!-- Estadísticas Generales (en español y sin error de repositorios privados) -->
+    <!-- Tarjeta de Estadísticas (Servidor extendido de alta disponibilidad) -->
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=JAZE30&theme=tokyonight&show_icons=true&hide_border=true&border_radius=8&locale=es" alt="GitHub Stats" width="380" />
+      <img src="https://github-stats-extended.vercel.app/api?username=JAZE30&theme=tokyonight&show_icons=true&hide_border=true&border_radius=8" alt="GitHub Stats" width="380" />
     </td>
     <!-- Tarjeta de Racha de Actividad -->
     <td align="center" valign="middle">
@@ -67,7 +68,7 @@
   </tr>
 </table>
 
-<!-- Animación de la Serpiente (aparecerá en cuanto la Action termine en verde) -->
+<!-- Animación de la Serpiente activa -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/JAZE30/JAZE30/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="85%" />
 </div>
