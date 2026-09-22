@@ -2,16 +2,19 @@ name: Generate Snake
 
 on:
   schedule:
-    # Se ejecuta automáticamente cada 24 horas
     - cron: "0 */24 * * *"
   workflow_dispatch:
+
+# Permisos explícitos para solucionar el error 'git exit code 128'
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generar la animación de la serpiente
         uses: Platane/snk@v3
@@ -22,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Publicar en la rama output
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
